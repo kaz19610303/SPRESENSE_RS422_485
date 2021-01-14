@@ -2,8 +2,8 @@
   Spresense RS-422/485 ボード(NS-SPR-0301)　テストプログラム
   rS-422/485 test
   Set Jummper
-  SJ1　　
-  SJ2　　
+  SJ1　1-2ショート　　
+  SJ2　1-2ショート　　
   SJ3　ショート
   SJ4　ショート
   SJ5　ショート
