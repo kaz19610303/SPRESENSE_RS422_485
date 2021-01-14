@@ -27,3 +27,4 @@ CN3はアイソレーション電源出力です。
 3、4ピン GND  
 ![外部接続端子](images/2-5.jpg)
 
+[この基板の販売ページ](https://nextstep.official.ec/items/38434310)
